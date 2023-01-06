@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+.conten {
+  background-color: rgb(51, 48, 48);
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+  font-family: "Oswald", sans-serif;
+  font-size: 3rem;
+}
+
+.botones {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+}

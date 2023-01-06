@@ -1,0 +1,16 @@
+button {
+  margin: 0.2rem;
+  padding: 1rem 1.1rem 1rem 1.1rem;
+  border-radius: 50%;
+  background-color: lime;
+  color: rgb(51, 48, 48);
+  position: relative;
+  border: none;
+  font-size: 2rem;
+}
+
+button:hover {
+  background-color: rgb(3, 185, 3);
+  cursor: pointer;
+  color: blanchedalmond;
+}
